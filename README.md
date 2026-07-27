@@ -3,7 +3,7 @@
 ## About me
 Welcome to my official portfolio! I am an undergraduate student currently pursuing a B.Sc (Hons) in Biotechnology at SLIIT. I am deeply interested in biological sciences, molecular biology, cytology, and laboratory analytical techniques.
 
-![My Photograph](photo.jpg)
+![My Photograph](photo.jpg.png)
 
 ## Educational Qualifications
 ### Higher Education
