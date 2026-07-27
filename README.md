@@ -1,1 +1,42 @@
-# Nethmisenanayaka.github.io
+[22:08, 27/07/2026] Nethmi😊: # Nethmi - Portfolio
+
+## About me
+Welcome to my official portfolio! I am an undergraduate student currently pursuing a B.Sc (Hons) in Biotechnology at SLIIT. I am deeply interested in biological sciences, molecular biology, cytology, and laboratory analytical techniques.
+
+![My Photograph](photo.jpg)
+
+## Educational Qualifications
+### Higher Education
+* *B.Sc (Hons) in Biotechnology* - Sri Lanka Institute of Information Technology (SLIIT)
+
+### Secondary Education
+* Passed G.C.E. Advanced Level & Ordinary Level Examinations
+
+## Work experience
+Currently focusing on academic studies, laboratory practicals, and biological research projects.
+
+## Other Professional Qualifications
+Laboratory Safety Standards & Standard Operating Procedures (SOPs) Training.
+
+## Projects
+* *Yellow Biotechnology & Nutrition:* Presentation on living organisms utilized for food nutrition and quality enhancement.
+* *Schrödinger's Wave Model:* Video project exploring atomic orbitals and mathematical electron behavior.
+* *NeoOncovac Cancer Research:* Academic research presentation on personalized cancer treatment.
+
+## Other skills
+* Analytical Chemistry Techniques (Titration, Molarity Calculations, Solution Preparation)
+* Cytology & Plant Anatomy Analysis
+* Laboratory Safety Protocol & SDS Documentation
+* Scientific Document Formatting & APA Referencing
+
+## Hobbies
+* Reading scientific journals and molecular biology research papers
+* Exploring technological tools
+* Academic presentations and discussions
+
+## Resume
+* [Download Resume (PDF)](CV.pdf)
+
+## Contact details
+* *Email Address:* nethmi@example.com
+*
