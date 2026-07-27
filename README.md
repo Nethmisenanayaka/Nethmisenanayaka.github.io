@@ -1,8 +1,8 @@
 [22:08, 27/07/2026] Nethmi😊: # Nethmi - Portfolio
 
 ## About me
-Welcome to my official portfolio! I am an undergraduate student currently pursuing a B.Sc (Hons) in Biotechnology at SLIIT. I am deeply interested in biological sciences, molecular biology, cytology, and laboratory analytical techniques.<img src="photo.jpg" alt="Nethmi" width="150">
-
+Welcome to my official portfolio! I am an undergraduate student currently pursuing a B.Sc (Hons) in Biotechnology at SLIIT. I am deeply interested in biological sciences, molecular biology, cytology, and laboratory analytical techniques.
+<img src="photo.jpg" alt="Nethmi" width="150">
 ## Educational Qualifications
 ### Higher Education
 * *B.Sc (Hons) in Biotechnology* - Sri Lanka Institute of Information Technology (SLIIT)
