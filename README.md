@@ -33,10 +33,7 @@ Laboratory Safety Standards & Standard Operating Procedures (SOPs) Training.
 * Academic presentations and discussions
 
 ## Resume
-* ## Resume
- ## Resume
- 
-[Download My Resume (PDF)](hs26510015cv.pdf?raw=true)
+[Download My Resume (PDF)](https://drive.google.com)
 
 ## Contact details
 * *Email Address:* nethmi@example.com
